@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm a front-end developer hoping to expand into full-stack in the near future. 
+
+Currently focusing on HTML, CSS, JavaScript, React and Tailwind.
+
+Besides programming languages, I also have a passion for natural languages. 
+I'm currently trying to push my Korean to the upper intermediate levels. 
+Also know very basic Japanese but that will wait until I complete most of 
+my core Korean studies, so I do hope to break into the Asian market one day!
+
 <!--
 **escodaontop/escodaontop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
